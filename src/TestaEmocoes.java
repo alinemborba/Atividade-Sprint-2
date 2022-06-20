@@ -1,7 +1,4 @@
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
-
 
 public class TestaEmocoes {
     public static void main(String[] args) {
@@ -10,11 +7,6 @@ public class TestaEmocoes {
         String frase;
         int divertido = 0;
         int chateado = 0;
-
-        List<String> arr = new ArrayList<>();
-
-        arr.add(":-)");
-        arr.add(":-(");
 
         System.out.println("Qual seu nome?");
         nome = entrada.nextLine();

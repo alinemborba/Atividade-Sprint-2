@@ -1,0 +1,10 @@
+Olá pessoal, estou fazendo esse arquivo para esclarecer alguns pontos do meu código.
+
+Na atividade TestaProdutos, onde, caso o usuário escolha essa opção, o código cadastra 3 produtos no banco de dados,
+essa função só funciona caso ja haja pelo menos um produto cadastrado no banco. Se o banco de dados estiver vazio,
+o código não consegue cadastrar os três produtos lá. Não consegui resolver esse problema a tempo, mas durante a semana
+vou tentar entender o que há de errado nele.
+
+Também envio a atividade TestaFilmes incompleta, perdão por isso.
+
+Obrigada, Aline.

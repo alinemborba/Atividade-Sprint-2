@@ -1,20 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="034ae979-26ec-4a4d-86ba-7ddeeca40be9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Atividade-Sprint-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConnectionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaConexao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaEmocoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaFilmes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestaProdutos.java" afterDir="false" />
+    <list default="true" id="034ae979-26ec-4a4d-86ba-7ddeeca40be9" name="Changes" comment="atividades 1 e 3">
+      <change afterPath="$PROJECT_DIR$/src/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaEmocoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaEmocoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestaFilmes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestaFilmes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +42,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TestaProdutos">
+  <component name="RunManager" selected="Application.TestaFilmes">
     <configuration name="TestaEmocoes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TestaEmocoes" />
       <module name="Atividade-Sprint-2" />
@@ -89,10 +80,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestaProdutos" />
-        <item itemvalue="Application.TestaProdutos2" />
         <item itemvalue="Application.TestaFilmes" />
         <item itemvalue="Application.TestaEmocoes" />
+        <item itemvalue="Application.TestaProdutos" />
+        <item itemvalue="Application.TestaProdutos2" />
         <item itemvalue="Application.TestaEmocoes2" />
       </list>
     </recent_temporary>
@@ -106,6 +97,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655514265669</updated>
     </task>
+    <task id="LOCAL-00001" summary="atividades 1 e 3">
+      <created>1655679234618</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655679234618</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="atividades 1 e 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="atividades 1 e 3" />
   </component>
 </project>
